@@ -6,7 +6,8 @@ namespace yosoy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Yo soy Aitor.");//@aetxabao
+            Console.WriteLine("Yo soy Christian.");//@cjimenecue
+            Console.WriteLine("Ni ere Christian naiz.");//@cjimenecue
         }
     }
 }
